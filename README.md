@@ -39,7 +39,7 @@ Minishell is 42's second largest project. It's a minimum viable version of a rea
     - signal, kill
     - exit
 
-## builtins_implemented
+## Builtins implemented 🔨
 
 command | description  |
 ---|------|
