@@ -22,7 +22,7 @@ Minishell is 42's second largest project. It's a minimum viable version of a rea
         cd minishell
         make
 
-3. After building the source `./test` from the project root.
+3. After building the source `./miniShell` from the project root.
 
 
 ## Mandatory  🌐
