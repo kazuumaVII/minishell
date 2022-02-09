@@ -1,6 +1,11 @@
 # minishell
 As beautiful as a shell
 
+<div align="center">
+<img align="center" src='https://user-images.githubusercontent.com/43440614/153256249-0c376fca-9b43-4d18-8eef-8b7648f56414.gif' /> 
+</div>
+
+
 
 ## Introduction 🤔
 
