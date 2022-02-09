@@ -10,3 +10,7 @@ As beautiful as a shell
 * [libft functions](#libft_functions)
 
 ## What is a shell? 🤔
+
+The objective of this project is to create a simple shell and learn a lot about processes and file descriptors
+
+Minishell is 42's second largest project. It's a minimum viable version of a real shell. The main objective is to have a good understanding of creating and synchronizing processes using the C programming language.
