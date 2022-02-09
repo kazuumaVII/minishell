@@ -2,7 +2,7 @@
 As beautiful as a shell
 
 <div align="center">
-<img align="center" src='https://user-images.githubusercontent.com/43440614/153256672-64c29b57-959a-416f-9c54-15aab9082e1a.gif' width="300" /> 
+<img align="center" src='https://user-images.githubusercontent.com/43440614/153256672-64c29b57-959a-416f-9c54-15aab9082e1a.gif' width="700" /> 
 </div>
 
 
