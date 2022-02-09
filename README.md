@@ -25,7 +25,7 @@ Minishell is 42's second largest project. It's a minimum viable version of a rea
 ## Mandatory  🌐
 
 - Can only use C
-- Must respect the school imposed coding style ([The Norme][norme-pdf])
+- Must respect the school imposed coding style (42 Norme)
 - No memory leaks
 - Can only use these standard library functions:
     - malloc, free
