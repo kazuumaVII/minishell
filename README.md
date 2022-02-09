@@ -25,3 +25,6 @@ Minishell is 42's second largest project. It's a minimum viable version of a rea
 
         cd minishell
         make
+
+Running the program
+After building the source, run ./minishell from the project root.
