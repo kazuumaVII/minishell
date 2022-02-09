@@ -22,7 +22,7 @@ Minishell is 42's second largest project. It's a minimum viable version of a rea
 3. After building the source `./minishel` from the project root.
 
 
-## Mandatory 🌐
+## Mandatory  🌐
 
 - Can only use C
 - Must respect the school imposed coding style ([The Norme][norme-pdf])
@@ -39,7 +39,7 @@ Minishell is 42's second largest project. It's a minimum viable version of a rea
     - signal, kill
     - exit
 
-## Builtins implemented 🔨
+## Builtins implemented  🔨
 
 command | description  |
 ---|------|
