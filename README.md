@@ -1,7 +1,7 @@
 # minishell
 As beautiful as a shell
 
-* [Introduction](#introduction)
+* [What is a shell?](#What_is_a_shell?)
 * [Usage](#usage)
 * [Builtins implemented](#builtins_implemented)
 * [Step by step](#step_by_step)
@@ -9,4 +9,4 @@ As beautiful as a shell
 * [Study resources](#study_resources)
 * [libft functions](#libft_functions)
 
-## introduction
+## What is a shell? 🤔
