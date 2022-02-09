@@ -1,6 +1,8 @@
 # minishell
 As beautiful as a shell
 
+![Enregistrement de l’écran 2022-02-09 à 14 37 35](https://user-images.githubusercontent.com/43440614/153215409-21d89d43-a05d-46a5-8a81-1952f1de951f.gif)
+
 
 ## Introduction 🤔
 
