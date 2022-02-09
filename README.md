@@ -4,7 +4,6 @@ As beautiful as a shell
 * [What is a shell?](#What_is_a_shell?)
 * [Installation & Usage](#Installation_&_Usage)
 * [Mandatory](#Mandatory)
-
 * [Builtins implemented](#builtins_implemented)
 * [Step by step](#step_by_step)
 
@@ -47,3 +46,15 @@ Minishell is 42's second largest project. It's a minimum viable version of a rea
     - wait, waitpid, wait3, wait4
     - signal, kill
     - exit
+
+## builtins_implemented
+
+command | description  |
+---|------|
+**echo** | echo the STRING(s) to standart output. **-n** flag: do not output the trailing newline |
+**cd** | change the shell working directory	(with a relative or absolute path)|
+**pwd** | print name of current/working directory	|
+**export** | set export attribute for shell variables | 
+**unset** | unset values of shell variables |
+**env** | print the environment	| 
+**exit** | cause the shell to exit with the exit status specified	| 
