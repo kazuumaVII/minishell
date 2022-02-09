@@ -1,7 +1,7 @@
 # minishell
 As beautiful as a shell
 
-* [What is a shell?](#Introduction)
+* [Introduction](#Introduction)
 * [Installation & Usage](#Installation_&_Usage)
 * [Mandatory](#Mandatory)
 * [Builtins implemented](#builtins_implemented)
