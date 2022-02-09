@@ -16,4 +16,4 @@ The objective of this project is to create a simple shell and learn a lot about 
 Minishell is 42's second largest project. It's a minimum viable version of a real shell. The main objective is to have a good understanding of creating and synchronizing processes using the C programming language.
 
 
-## Installation & Usage
+## Installation & Usage ❕
