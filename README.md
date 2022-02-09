@@ -20,7 +20,7 @@ Minishell is 42's second largest project. It's a minimum viable version of a rea
 
 1. Download/Clone this repo
 
-        git clone https://github.com/r4meau/minishell
+        git clone https://github.com/kazuumaVII/minishell.git
 2. `cd` into the root directory and run `make`
 
         cd minishell
