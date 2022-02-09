@@ -1,16 +1,8 @@
 # minishell
 As beautiful as a shell
 
-* [Introduction](#Introduction)
-* [Installation & Usage](#Installation_&_Usage)
-* [Mandatory](#Mandatory)
-* [Builtins implemented](#builtins_implemented)
-* [Step by step](#step_by_step)
 
-* [Study resources](#study_resources)
-* [libft functions](#libft_functions)
-
-## Introduction         🤔
+## Introduction 🤔
 
 The objective of this project is to create a simple shell and learn a lot about processes and file descriptors
 
