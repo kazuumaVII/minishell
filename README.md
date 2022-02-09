@@ -3,9 +3,11 @@ As beautiful as a shell
 
 * [What is a shell?](#What_is_a_shell?)
 * [Installation & Usage](#Installation_&_Usage)
+* [Mandatory](#Mandatory)
+
 * [Builtins implemented](#builtins_implemented)
 * [Step by step](#step_by_step)
-* [Mindmap](#mindmap)
+
 * [Study resources](#study_resources)
 * [libft functions](#libft_functions)
 
@@ -28,5 +30,6 @@ Minishell is 42's second largest project. It's a minimum viable version of a rea
 
 3. After building the source `./minishel` from the project root.
 
-Running the program
-After building the source, run ./minishell from the project root.
+
+## Mandatory 🌐
+
