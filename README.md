@@ -13,10 +13,10 @@ Minishell is 42's second largest project. It's a minimum viable version of a rea
 
 1. Download/Clone this repo
 
-        git clone https://github.com/kazuumaVII/cub_3d.git
+        git clone https://github.com/kazuumaVII/minishell.git
 2. `cd` into the root directory and run `make`
 
-        cd cub_3d
+        cd minishell
         make
 
 3. After building the source `./test` from the project root.
@@ -24,40 +24,20 @@ Minishell is 42's second largest project. It's a minimum viable version of a rea
 
 ## Mandatory  🌐
 
-key  | function |
----|------|
-left/right arrow or `q`/`e`| turn				|
-`w` `a` `s` `d` | move					|
-
-you may edit all these settings:
-
-resolution, ceiling and floor colors (range 0 - 255), walls and sprite textures, map. The map must be sorrounded by walls(1) and have the initial player position and direction (W- west, E- east, N-north, S-south)
-
-```
-R 1280 720
-
-C 92, 148, 252
-F 128, 208, 15
-
-WE ./textures/walls/mario_1.XPM
-EA ./textures/walls/mario_4.XPM
-NO ./textures/walls/mario_2.XPM
-SO ./textures/walls/mario_3.XPM
-S ./textures/sprites/mario.XPM
-
-11111111111111111111111
-100S0010000100010000111
-11000000000000000000111
-10000000011111000000011
-10020000000000000001111
-10000010000000000111111
-11102011000100000000011
-10000011000100002000001
-11000001000100000000111
-11000020010110200011111
-11011000001110002000111
-11111111111111111111111
-```
+- Can only use C
+- Must respect the school imposed coding style ([The Norme][norme-pdf])
+- No memory leaks
+- Can only use these standard library functions:
+    - malloc, free
+    - access
+    - open, close, read, write
+    - opendir, readdir, closedir
+    - getcwd, chdir
+    - stat, lstat, fstat
+    - fork, execve
+    - wait, waitpid, wait3, wait4
+    - signal, kill
+    - exit
 
 ## Builtins implemented  🔨
 
