@@ -33,3 +33,17 @@ Minishell is 42's second largest project. It's a minimum viable version of a rea
 
 ## Mandatory 🌐
 
+- Can only use C
+- Must respect the school imposed coding style ([The Norme][norme-pdf])
+- No memory leaks
+- Can only use these standard library functions:
+    - malloc, free
+    - access
+    - open, close, read, write
+    - opendir, readdir, closedir
+    - getcwd, chdir
+    - stat, lstat, fstat
+    - fork, execve
+    - wait, waitpid, wait3, wait4
+    - signal, kill
+    - exit
